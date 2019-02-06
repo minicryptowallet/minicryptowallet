@@ -1,0 +1,7 @@
+
+Build on Windows 10
+
+1. Download and extract http://bouncycastle.org/csharp/download/bccrypto-csharp-1.8.4-bin.zip to source code directory
+2. Run build.bat to build 6 executables
+
+http://minicryptowallet.com/
